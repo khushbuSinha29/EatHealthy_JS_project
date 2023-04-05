@@ -1,4 +1,4 @@
-# EatHealthy_JS_project  (https://khushbu-work.netlify.app)
+# EatHealthy_JS_project  (https://eat-healthy-app.netlify.app/)
 
 This is a demo food delivery App.
 
