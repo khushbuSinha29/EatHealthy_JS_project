@@ -506,12 +506,12 @@ strong {
     font-size: 1.8rem;
 }
 
-.section-transition{
+.section-transition {
     transition: transform 1s,
         opacity 1s;
 }
 
-.section-hidden{
+.section-hidden {
     opacity: 0;
     transform: translateY(8rem);
 }
@@ -550,7 +550,7 @@ strong {
     align-items: center;
     justify-content: center;
     margin-left: 4rem;
-    box-shadow: 0px 0px 4px 4px rgba(128, 128, 128, 0.171) ;
+    box-shadow: 0px 0px 4px 4px rgba(128, 128, 128, 0.171);
 
 }
 
@@ -566,7 +566,7 @@ strong {
     height: 15rem;
     border-radius: 50%;
     margin: 2rem;
-object-fit: cover;
+    object-fit: cover;
 }
 
 
@@ -752,7 +752,7 @@ object-fit: cover;
     box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
     border-radius: 11px;
 
-    background-image: linear-gradient(to right bottom, #eb984e, #e67e22);
+    background-image: linear-gradient(to right bottom, #51cf66, #e67e22);
     overflow: hidden;
     /* temp
     height: 50rem; */
